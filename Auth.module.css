@@ -1,0 +1,13 @@
+.Card {
+    margin: 10rem 25rem;
+    padding: 0.5rem 2rem;
+    display: flex;
+    text-align: center;
+}
+s
+
+.Card Button{
+  align-items: center;
+  justify-content: center;
+  margin: 0 30%;
+}
